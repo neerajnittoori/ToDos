@@ -10,3 +10,5 @@ obj/Debug/net5.0/ToDos.AssemblyInfoInputs.cache
 obj/Debug/net5.0/ToDos.assets.cache
 obj/Debug/net5.0/ToDos.csproj.AssemblyReference.cache
 obj/Debug/net5.0/ToDos.GeneratedMSBuildEditorConfig.editorconfig
+obj/*
+bin/*
