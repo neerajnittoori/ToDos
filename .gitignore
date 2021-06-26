@@ -1,0 +1,12 @@
+obj/project.assets.json
+obj/project.nuget.cache
+obj/ToDos.csproj.nuget.dgspec.json
+obj/ToDos.csproj.nuget.g.props
+obj/ToDos.csproj.nuget.g.targets
+obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+obj/Debug/net5.0/project.razor.json
+obj/Debug/net5.0/ToDos.AssemblyInfo.cs
+obj/Debug/net5.0/ToDos.AssemblyInfoInputs.cache
+obj/Debug/net5.0/ToDos.assets.cache
+obj/Debug/net5.0/ToDos.csproj.AssemblyReference.cache
+obj/Debug/net5.0/ToDos.GeneratedMSBuildEditorConfig.editorconfig
